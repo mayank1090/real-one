@@ -1,0 +1,61 @@
+.searchbar-container {
+    display: flex;
+    margin-left: 2rem;
+}
+
+
+form.form {
+    
+    height: 5rem;
+    padding-left: 1rem;
+    width: 22rem;
+    margin-right: 15rem;
+    margin-top: 1rem;
+    
+    background: transparent;
+    
+}
+.form-control {
+    height: 3rem;
+    margin: 0;
+    width: 17rem;
+    padding-left: 1rem;
+    border: 1px solid whitesmoke;
+    border-radius: 32px;
+}
+img.line {
+    top: 1rem;
+    border: 1px rgb(82 80 80);
+    height: 2.2rem;
+    position: relative;
+    left: -4rem;
+}
+img#search {
+    position: relative;
+    left: -3rem;
+    top: 0.5rem;
+    cursor: pointer;
+}
+button#search-btn {
+    margin-top: 1.5rem;
+    margin-left: 22rem;
+    background: #6AB4F8;
+    margin-right: 15px;
+    width: 11rem;
+    height: 3.2rem;
+    
+    font-style: normal;
+    
+    font-weight: 600;
+    font-size: 15px;
+    color: rgba(250, 251, 252, 1);
+    line-height: 25px;
+    border-radius: 42px;
+    cursor: pointer;
+    box-shadow: 0px 10px 25px 0px rgb(0 0 0 / 13%);
+}
+img.plus {
+    
+    padding-right: 1rem;
+    color: rgba(250, 251, 252, 1);
+}
